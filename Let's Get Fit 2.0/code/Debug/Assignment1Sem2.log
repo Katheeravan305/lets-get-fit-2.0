@@ -1,0 +1,5 @@
+﻿  Staff.cpp
+C:\Users\alien\Desktop\ASSN1_147744\Assignment1Sem2\Staff.cpp(60,34): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alien\Desktop\ASSN1_147744\Assignment1Sem2\Staff.cpp(61,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\alien\Desktop\ASSN1_147744\Assignment1Sem2\Staff.cpp(453,6): warning C4101: 'enter': unreferenced local variable
+  Assignment1Sem2.vcxproj -> C:\Users\alien\Desktop\ASSN1_147744\Assignment1Sem2\Debug\Assignment1Sem2.exe
